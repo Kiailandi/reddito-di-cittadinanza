@@ -7,7 +7,7 @@ const loadCounter = () => {
 if( document.readyState === 'complete' ) {
     loadCounter();
 } else {
-    document.addEventListener('DOMContentLoaded', function () {
+    document.addEventListener('DOMContentLoaded', () => {
         loadCounter();
     });
 }
