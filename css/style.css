@@ -32,6 +32,20 @@ body {
     text-align: center;
 }
 
+.flex-item-footer {
+    width:25%;
+    color: black;    
+    font-size: 1.7em;
+    text-align: center;
+    background-color: black;
+    border-radius: 20px;
+    color: white
+}
+
 b {
     color: white;
+}
+
+.heart, a, a:hover, a:visited{
+    color:red;
 }
