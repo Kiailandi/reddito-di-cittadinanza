@@ -28,14 +28,14 @@ body {
 .flex-item {
     width:100%;
     color: black;    
-    font-size: 3.5em;
+    font-size: 3.6em;
     text-align: center;
 }
 
 .flex-item-footer {
     width:25%;
     color: black;    
-    font-size: 1.7em;
+    font-size: 1.8em;
     text-align: center;
     background-color: black;
     border-radius: 20px;
