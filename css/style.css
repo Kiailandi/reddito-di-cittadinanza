@@ -44,6 +44,11 @@ body {
 
 b {
     color: white;
+    text-shadow:
+    -2px -2px 0 black,
+    2px -2px 0 black,
+    -2px 2px 0 black,
+    2px 2px 0 black
 }
 
 .heart, a, a:hover, a:visited{
